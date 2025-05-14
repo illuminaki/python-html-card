@@ -37,7 +37,7 @@ El proyecto consiste en un servidor web minimalista que ofrece:
 ## Estructura del proyecto
 
 - `server.py`: El servidor web que maneja las peticiones y genera las tarjetas
-- `/static/`: Directorio para archivos estáticos (CSS, imágenes, etc.)
+
 
 ## Características
 
@@ -49,5 +49,4 @@ El proyecto consiste en un servidor web minimalista que ofrece:
 ## Personalización
 
 Puedes personalizar el aspecto de las tarjetas modificando:
-- El CSS en `/static/style.css`
 - Las plantillas HTML en `server.py`
